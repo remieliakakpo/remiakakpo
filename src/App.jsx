@@ -16,9 +16,9 @@ export default function ModernPortfolio() {
 
   const specializations = [
     {
-      title: "Infrastructure Cloud",
-      description: "Architecture et déploiement d'infrastructures cloud scalables sur AWS. Création d'instances EC2, configuration de réseaux VPC et gestion de ressources cloud.",
-      icon: <Cloud className="w-8 h-8" />,
+      title: "Administration des bases de données",
+      description: "Optimisation des bases de données",
+      icon: <datacenter className="w-8 h-8" />,
       color: "blue"
     },
     {
